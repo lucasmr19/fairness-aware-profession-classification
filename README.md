@@ -1,5 +1,7 @@
 # Fairness-Aware Profession Classification
 
+![gradcam_interpretability.png](gradcam_interpretability.png)
+
 This repository presents a **data-centric analysis of fairness and performance trade-offs** in deep learning–based profession classification.
 Using a fixed ResNet-50 architecture, the project investigates how **dataset design choices**, including **balancing and controlled imbalance of sensitive attributes**, affect predictive performance, fairness metrics, and learned representations.
 
